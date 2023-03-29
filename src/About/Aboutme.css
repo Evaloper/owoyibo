@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Armata&display=swap");
+
+.aboutme {
+  background-color: #32b4c4;
+}
+
+.aboutme h2 {
+  margin-left: 100px;
+  padding-top: 70px;
+  font-size: 58px;
+  color: #dad7d740;
+  letter-spacing: 10px;
+}
+.second-sect {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: -150px;
+}
+
+.profile-img {
+  width: 40%;
+  margin-left: -70px;
+  /* padding-right: 100px; */
+}
+
+.aboutme-sect {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  margin-right: 50px;
+  margin-left: 60px;
+}
+
+.div-container {
+  background-color: #f7f7f7;
+  padding: 20px;
+  border-radius: 30px;
+  box-shadow: inset 1px 2px 5px rgb(56 139 136 / 30%),
+    inset -3px -2px 5px rgb(1 76 73 / 30%),
+    rgb(9 30 66 / 15%) 0px 0.5rem 1rem 0px;
+    text-align: left;
+    line-height: 20px;
+    width: 280px;
+}
+
+.div-container h3 {
+  letter-spacing: 3px;
+  font-size: 24px;
+  color: #4f4e4e;
+}
+.div-container p,
+ul li {
+  color: #4f4e4e;
+  font-size: 14px;
+}
+.obj-para {
+  text-align: justify;
+}
+.header-span {
+  font-weight: bold;
+}
+
+ul {
+  padding-left: 25px;
+}
+
+h6 {
+  font-size: 16px;
+}

@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Armata&display=swap");
+.skills-sect {
+  display: flex;
+  align-items: center;
+}
+
+.skill-header {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  font-size: 200px;
+  padding: 100px 60px;
+  color: #fff;
+  background-color: #00e3ff;
+  background-image: linear-gradient(45deg, #5a5a5a, transparent);
+  text-shadow: 10px 6px 20px #00000085;
+}
+
+.skills-list {
+  font-size: 40px;
+}
+
+.skills-list h3 {
+    color: #32b4c4;
+}
+
+.margin-styling {
+    margin-left: 29px;
+    line-height: 25px;
+}
+.number-span {
+  background: -webkit-linear-gradient(#00e3ff, #bbb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 80px;
+}

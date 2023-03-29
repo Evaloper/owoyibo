@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Armata&display=swap');
+header {
+    position: fixed;
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+    background: #F9FAFA 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 10px #00000029;
+}
+
+
+.header-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 100px 0 100px;
+}
+
+
+.logo img {
+    width: 100px;
+}
+
+nav ul li {
+    display: inline-flex;
+    list-style: none;
+    padding-right: 30px;
+}
+
+li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+li a:hover {
+    color: #32b4c4;
+}

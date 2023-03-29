@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Armata&display=swap');
+
+.first-sect {
+    margin-top: 150px;
+    margin-bottom: 100px
+    ;
+}
+.top-container, .btm-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.images {
+    width: 250px;
+    transition:  1s all ease-out;
+}
+
+.images > img{
+    width: 100%;
+    height: 100%;
+    
+}
+
+
+.images:hover img {
+    transform: scale(1.2);
+}

@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Armata&display=swap');
+
+footer {
+    background-color: #32B4C4;
+    font-family: 'Armata', sans-serif;
+    
+}
+
+.sm-div img {
+    width: 3%;
+    padding-right: 6px;
+    background-color: #ffffff80;
+    border-radius: 30px;
+    margin-right: 30px;
+}
+
+#linkedin {
+    margin-right: 0;
+}
+
+.sm-div {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+/* .copyright {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+} */
+
+.first-para {
+    margin-left: 100px;
+}
+
+/* #whatsapp-icon {
+    width: 7%;
+    background-color: inherit;
+    margin-right: 100px;
+} */
+
+.sm-div h3 {
+    font-size: 20px;
+    color: #0006;
+}
