@@ -3,7 +3,7 @@ import facebook from "./images/facebook.png";
 import twitter from "./images/twitter.png";
 import instagram from "./images/instagram.png";
 import linkedin from "./images/linkedin.png";
-import whatsapp from "./images/whatsapp.png"
+// import whatsapp from "./images/whatsapp.png"
 import "./Footer.css"
 
 
