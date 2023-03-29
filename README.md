@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Hosted Link
+You can check the hosted link with [Owoyibo](https://flourishing-starlight-ce146a.netlify.app/).
+
 ## Available Scripts
 
 In the project directory, you can run:
